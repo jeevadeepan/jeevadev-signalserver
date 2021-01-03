@@ -1,0 +1,20 @@
+{
+  "name": "signal",
+  "version": "1.0.0",
+  "description": "Simple singaling server for webRtc clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webRtc",
+    "signaling",
+    "server",
+    "nodejs"
+  ],
+  "author": "Jeevadeepan Amuthurajan",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.1"
+  }
+}
