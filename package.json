@@ -15,7 +15,6 @@
   "author": "Jeevadeepan Amuthurajan",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "ws": "^7.4.1"
   }
 }
